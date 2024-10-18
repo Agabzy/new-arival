@@ -1,0 +1,15 @@
+  // const navigate = useNavigate();
+
+  // useEffect(() => {
+  //   fetch('http://localhost/project/checklogin.php')
+  //   .then(response => response.json())
+  //    .then(data => {
+  //     if(!data.loggedin){
+  //       navigate('/login');
+  //     }
+  //    })
+  //    .catch(error => {
+  //     console.error('Error checking login status:', error);
+  //     navigate('/login');
+  //    });
+  // }, [navigate]);
